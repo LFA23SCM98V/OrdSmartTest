@@ -1,4 +1,5 @@
 This Task involves 4 phases
+
 **Phase 1: Application Setup**
 In this phase, the candidate will scaffold the Kotlin application such that it is successfully able to run locally.
 **Objectives**
